@@ -20,7 +20,7 @@ int main(){
 
     attempts = 1;
      
-    //loop do jogo:
+    // game loop:
 
     while (attempts <= 6){
 
